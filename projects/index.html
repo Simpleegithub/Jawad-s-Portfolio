@@ -450,9 +450,8 @@ header .navbar ul li a:hover{
 
 <!-- ==== ALL MAJOR JAVASCRIPT CDNS ENDS ==== -->
 
-<script >
-
-$(document).ready(function () {
+<script>
+  $(document).ready(function () {
 
 $('#menu').click(function () {
     $(this).toggleClass('fa-times');
@@ -486,7 +485,7 @@ function () {
 
 // fetch projects start
 function getProjects() {
-return fetch("projects.json")
+return fetch("/projects.json")
     .then(response => response.json())
     .then(data => {
         return data
