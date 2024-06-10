@@ -1,41 +1,41 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "Tic Tak Toe Game",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "./notystackandroid",
-    "category": "android",
+    "image": "TicTak",
+    "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://tic-tak-toe-game-two.vercel.app/",
       "code": "https://github.com/jigar-sable/notystack-android"
     }
   },
   {
-    "name": "SPPU Engg Prep",
+    "name": "Halloween",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "./sppuprepandroid",
-    "category": "android",
+    "image": "Halloween",
+    "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://halloween-gray.vercel.app/",
       "code": "https://github.com/jigar-sable/sppu-prep-android"
     }
   },
   {
-    "name": "NewsBox Android",
+    "name": "Restaurant",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "./newsboxandroid",
-    "category": "android",
+    "image": "Restaurant",
+    "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://simpleegithub.github.io/Responsive-Restaurant-Website/",
       "code": "https://github.com/jigar-sable/newsbox-android"
     }
   },
   {
-    "name": "Weatherly Android",
+    "name": "Film Lane",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "./weatherlyandroid",
-    "category": "android",
+    "image": "Filmlane",
+    "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://simpleegithub.github.io/Filmlane/",
       "code": "https://github.com/jigar-sable/weatherly-android"
     }
   },
